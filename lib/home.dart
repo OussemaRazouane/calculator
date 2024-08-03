@@ -145,7 +145,7 @@ class _HomeState extends State<Home> {
                           ),
                           child: const Icon(
                             Icons.add,
-                            color: Colors.white,
+                            color: Color.fromARGB(255, 79, 255, 88),
                             size: 35,
                           ),
                         ),
@@ -160,7 +160,7 @@ class _HomeState extends State<Home> {
                           ),
                           child: const Icon(
                             Icons.remove,
-                            color: Colors.white,
+                            color:  Color.fromARGB(255, 79, 255, 88),
                             size: 35,
                           ),
                         )
@@ -248,7 +248,7 @@ class _HomeState extends State<Home> {
                           ),
                           child: const Icon(
                             Icons.add,
-                            color: Colors.white,
+                            color:Color.fromARGB(255, 79, 255, 88),
                             size: 35,
                           ),
                         ),
@@ -263,7 +263,7 @@ class _HomeState extends State<Home> {
                           ),
                           child: const Icon(
                             Icons.remove,
-                            color: Colors.white,
+                            color:  Color.fromARGB(255, 79, 255, 88),
                             size: 35,
                           ),
                         )
